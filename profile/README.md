@@ -6,6 +6,8 @@ API infrastructure for AI agents — authenticated, governed access to 9,000+ ap
 
 ```bash
 npm install @zapier/sdk    # build agent-powered automations in code
+```
+```bash
 npx @zapier/mcp            # give AI apps access to 9,000+ apps instantly
 ```
 
